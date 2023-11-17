@@ -1,0 +1,7 @@
+#Pacakges
+streamlit
+requests
+#API
+fastapi
+pytz
+uvicorn
